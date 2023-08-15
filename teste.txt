@@ -3,3 +3,5 @@ Jéssica Pasqueta
 Só jogo LOL! hahaha
 
 lembrar que pra enviar pro github, é o git push fcmii master
+
+Enviar pro repositório no GitHub!
