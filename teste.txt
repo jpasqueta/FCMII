@@ -4,4 +4,5 @@ Só jogo LOL! hahaha
 
 lembrar que pra enviar pro github, é o git push fcmii master
 
-Enviar pro repositório no GitHub!
+Enviar pro repositório no GitHub! - é a tarefa do dia 10-08! Esqueci de mencionar a data no commit
+
