@@ -27,7 +27,7 @@ FROM sales.stores*/
 /*SELECT *
 FROM sales.funnel LEFT JOIN sales.customers
 ON sales.funnel.customer_id = sales.customers.customer_id
-WHERE sales.customers.state = 'SP' -- filtrp do estado de sp*/
+WHERE sales.customers.state = 'SP' -- filtro do estado de sp*/
 
 /*SELECT COUNT(*), sales.customers.state
 FROM sales.funnel LEFT JOIN sales.customers
